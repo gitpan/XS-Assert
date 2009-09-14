@@ -2,7 +2,7 @@ package XS::Assert;
 
 use 5.005_03;
 
-$VERSION = '0.001';
+$VERSION = '0.002';
 
 1;
 __END__
@@ -13,7 +13,7 @@ XS::Assert - Provides assertion macros for XS modules
 
 =head1 VERSION
 
-This document describes XS::Assert version 0.001.
+This document describes XS::Assert version 0.002.
 
 =head1 SYNOPSIS
 
